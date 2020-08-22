@@ -1,0 +1,11 @@
+C:\Users\Andrey\source\repos\ButcherMod\obj\Debug\ButcherMod.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\ButcherMod.dll
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\ButcherMod.pdb
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\ButcherMod\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\ButcherMod\obj\Debug\ButcherMod.csproj.CopyComplete
+C:\Users\Andrey\source\repos\ButcherMod\obj\Debug\ButcherMod.dll
+C:\Users\Andrey\source\repos\ButcherMod\obj\Debug\ButcherMod.pdb
