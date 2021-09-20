@@ -1,0 +1,5 @@
+Name: ButcherMod
+Version: 1.1
+Author: SpecialAPI & Goldenrevolver
+DLL: ButcherMod.dll
+Depends: Base 0.2
